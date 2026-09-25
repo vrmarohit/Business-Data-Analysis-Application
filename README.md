@@ -1,5 +1,8 @@
 # Business Data Analysis Application
 
+## 🚀 Live Demo
+
+[Open the Live Application](https://business-data-analysis-application-faphmkhstfyyywy3c3gj6p.streamlit.app/)
 A business data analysis application developed using Python, Pandas, NumPy, Streamlit and Power BI. The application helps analyze sales, profit, products, regions, customer types and discounts and provides business insights and forecasting.
 
 ## Features
