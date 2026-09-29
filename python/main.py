@@ -3246,7 +3246,7 @@ elif page == "💾 Downloads":
             "cleaned_business_data.csv",
 
             "text/csv"
-            )
+   )
 
         # ----------------------------------------------------
         # INSIGHTS
@@ -3416,10 +3416,5 @@ st.markdown("---")
 st.caption(
 
     "Business Data Analysis Application | "
-    "Python + Pandas + NumPy + Streamlit + "
-    "OpenPyXL + ReportLab | "
-    "Automatic Data Cleaning + "
-    "Dynamic Business Analysis + "
-    "Forecasting + Excel/PDF Reporting + "
-    "AI-Assisted Business Insights"
+    "Devloper = ROHIT VARMA"
 )

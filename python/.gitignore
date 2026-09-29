@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo 
+
+# Virtual Environment
+.venu/
+venu/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Environment / Secrets.env
+*.env 
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
