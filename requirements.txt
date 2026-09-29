@@ -3,5 +3,4 @@ pandas
 numpy
 openpyxl
 reportlab
-matplotlib
-PowerBI
+xlrd
